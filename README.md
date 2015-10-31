@@ -8,5 +8,8 @@ Chapter 1:
 	Great book so far. Very fun read
 
 Chapter 2:
-	Just starting. 
+    10/31/2015 Changed functional test to a class and added unittests framework. 
+    Added waits for browser, and started closing the browser automaticly after tests
+
+Chapter 3:
 
